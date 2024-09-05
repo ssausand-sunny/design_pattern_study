@@ -65,7 +65,7 @@ public class Service {
 ```
 
 ### 클래스
-![클래스 다이어그램](/img/병헌/adapter_object_diagram.png)
+![클래스 다이어그램](/img/병헌/adapter_class_diagram.png)
 
 ```java
 
